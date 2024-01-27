@@ -5,3 +5,11 @@ CHOW TO  START REACT PROJECT
 CREATE REACT WITH VITE 
 
     npm create vite@latest
+
+TO START SERVER
+
+    npm run start 
+
+OR
+
+    npm run dev 
