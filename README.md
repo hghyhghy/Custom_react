@@ -1,4 +1,4 @@
-CHOW TO  START REACT PROJECT
+HOW TO  START REACT PROJECT
 
      npx create-next-app@latest
 
